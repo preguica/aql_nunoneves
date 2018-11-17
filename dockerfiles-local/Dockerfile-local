@@ -1,6 +1,6 @@
 FROM pedromslopes/antidotedb
 
-MAINTAINER Pedro Lopes <pms.lopes@campus.fct.unl.pt>
+MAINTAINER Nuno Preguiça <nuno.preguica@fct.unl.pt>
 
 ENV AQL_NAME "aql@127.0.0.1"
 

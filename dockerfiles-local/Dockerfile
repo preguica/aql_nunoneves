@@ -1,9 +1,9 @@
 FROM antidotedb/antidote
 
-MAINTAINER Pedro Lopes <pms.lopes@campus.fct.unl.pt>
+MAINTAINER Nuno Preguica <nuno.preguica@fct.unl.pt>
 
-ENV AQL_REPO "git://github.com/pedromslopes/AQL.git"
-ENV AQL_BRANCH "new_features"
+ENV AQL_REPO "git://github.com/preguica/aql_nunoneves.git"
+ENV AQL_BRANCH "aql_nunoneves"
 ENV AQL_NAME "aql@127.0.0.1"
 
 #AQL
